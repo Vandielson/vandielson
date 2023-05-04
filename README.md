@@ -1,13 +1,15 @@
 ### Olá! Eu sou o Vandielson Tenório 👋
 
-Apaixonado por tecnologia, estou cursando o quarto período de ciência da computação pela Universidade Federal do Agreste de Pernambuco. Participei do programa de bolsas da Compass UOL que teve duração de 5 meses, com foco no aprendizado de Cloud e DevSecOps. Sou focado, determinado, objetivo e trabalho muito bem em equipe. Além disso, sou um bom ouvinte, sempre busco ajudar os meus companheiros e estou sempre em busca de novos conhecimentos.
+Apaixonado por tecnologia, estou cursando o quarto período de Ciência da Computação pela Universidade Federal do Agreste de Pernambuco. Participei do programa de bolsas da Compass UOL que teve duração de 5 meses, com foco no aprendizado de Cloud e DevSecOps. Sou focado, determinado, objetivo e trabalho muito bem em equipe. Além disso, sou um bom ouvinte, sempre busco ajudar os meus companheiros e estou sempre em busca de novos conhecimentos.
+
+### Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandielson-ten%C3%B3rio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vantenorioo?igshid=ZDdkNTZiNTM=)
 
 ![Vandielson GitHub stats](https://github-readme-stats.vercel.app/api?username=Vandielson&show_icons=true&theme=dracula)
 
-### Tecnologias utilizadas
+### Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
     <img aline="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
