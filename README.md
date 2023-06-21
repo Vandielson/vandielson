@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vandielson Tenório 👋
 
-Apaixonado por tecnologia, estou cursando o quarto período de Ciência da Computação pela Universidade Federal do Agreste de Pernambuco. Participei do programa de bolsas da Compass UOL que teve duração de 5 meses, com foco no aprendizado de Cloud e DevSecOps.
+Apaixonado por tecnologia, estou cursando o quarto período de Ciência da Computação pela Universidade Federal do Agreste de Pernambuco. Participei do programa de bolsas da Compass UOL que teve duração de 5 meses, com foco no aprendizado de Cloud e DevSecOps, onde hoje trabalho como Analista de Suporte Jr.
 
 ### Redes Sociais
 
