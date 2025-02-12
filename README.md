@@ -1,6 +1,6 @@
-### Olá! Eu sou o Vandielson Tenório 👋
+### Olá, pessoal! Eu sou o Vandielson. 👋
 
-Apaixonado por tecnologia, estou cursando o quarto período de Ciência da Computação pela Universidade Federal do Agreste de Pernambuco. Participei do programa de bolsas da Compass UOL que teve duração de 5 meses, com foco no aprendizado de Cloud e DevSecOps, onde hoje trabalho como Analista de Suporte Jr.
+Sou apaixonado por tecnologia e atualmente estou cursando Ciência da Computação na Universidade Federal do Agreste de Pernambuco. Tive a oportunidade de participar do programa de bolsas da Compass UOL, com foco em Cloud e DevSecOps. Hoje, atuo como Analista FinOps, com foco em visibilidade e alocação de custos em ambientes multicloud, além de trabalhar na otimização de recursos e na busca por soluções eficientes para redução de gastos.
 
 ### Redes Sociais
 
@@ -15,7 +15,9 @@ Apaixonado por tecnologia, estou cursando o quarto período de Ciência da Compu
     <img aline="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img aline="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img aline="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img aline="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img aline="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img aline="center" alt="SQL" src="https://img.shields.io/badge/SQL-004D4D?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img aline="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white">
+    <img aline="center" alt="DAX" src="https://img.shields.io/badge/DAX-9E1B32?style=for-the-badge&logo=microsoft&logoColor=white">
 </div><br>
 
