@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vandielson 👋
 
-Cursando Ciência da Computação na Universidade Federal do Agreste de Pernambuco. Passei pelo programa de bolsas da Compass UOL com foco em Cloud e DevSecOps, onde posteriomente atuei como Analista FinOps em ambientes multicloud, trabalhando com visibilidade de custos e otimização de recursos.
+Cursando Ciência da Computação na Universidade Federal do Agreste de Pernambuco, passei pelo programa de bolsas da Compass UOL com foco em Cloud e DevSecOps, onde posteriomente atuei como Analista FinOps em ambientes multicloud, trabalhando com visibilidade de custos e otimização de recursos.
 
 Atualmente, atuo como Business Intelligence no Bradesco, transformando dados em informação clara e acionável.
 
